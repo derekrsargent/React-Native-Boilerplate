@@ -1,9 +1,5 @@
 # Boilerplate and Starter for React Native, Expo, NativeWind and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
 
-<p align="center">
-  <a href="https://creativedesignsguru.com/"><img src="assets/banner.png?raw=true" alt="React Native Starter Template"></a>
-</p>
-
 🚀 Boilerplate and Starter for React Native, Expo, NativeWind and TypeScript ⚡️ Made with developer experience first: React Native, Expo, TypeScript, ESLint, Prettier, Husky, Lint-Staged, Jest, Detox, VSCode, NativeWind.
 
 ### Features
