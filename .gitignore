@@ -13,8 +13,8 @@ ios
 index.js
 
 # production
-dist/
-web-build/
+#dist/
+#web-build/
 
 # debug
 npm-debug.log*
